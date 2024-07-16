@@ -1,4 +1,4 @@
-# PROGRAMEEShop - Solución
+# PROGRAMEE SHOP
 
 
 ## Instalar el proyecto
