@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Curso de Vue.js",
+      "price": 49.99,
+      "description": "Aprende Vue.js desde cero hasta un nivel avanzado."
+    },
+    {
+      "id": 2,
+      "name": "Curso de React",
+      "price": 54.99,
+      "description": "Domina React y crea aplicaciones web modernas."
+    },
+    {
+      "id": 3,
+      "name": "Curso de Node.js",
+      "price": 39.99,
+      "description": "Desarrolla aplicaciones del lado del servidor con Node.js."
+    }
+  ]
